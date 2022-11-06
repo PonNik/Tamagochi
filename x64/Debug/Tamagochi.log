@@ -1,0 +1,3 @@
+﻿Tamagochi.obj : error LNK2001: неразрешенный внешний символ "public: static class sf::RenderStates const sf::RenderStates::Default" (?Default@RenderStates@sf@@2V12@B).
+Tamagochi.obj : error LNK2001: неразрешенный внешний символ "public: static class sf::Color const sf::Color::Green" (?Green@Color@sf@@2V12@B).
+C:\Users\nikit\source\repos\Tamagochi\x64\Debug\Tamagochi.exe : fatal error LNK1120: неразрешенных внешних элементов: 2
